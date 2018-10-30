@@ -1,0 +1,37 @@
+b'14:10:00, 10/10/2018\r\n'b'14:11:00, 10/10/2018\r\n'b'14:15:00, 10/10/2018\r\n'14:17:00, 10/10/2018
+14:21:00, 10/10/2018
+14:29:00, 10/10/2018
+14:33:00, 10/10/2018
+14:34:00, 10/10/2018
+14:39:00, 10/10/2018
+up on a Periodic Timer!
+14:43:00, 10/10/2018
+:43:00, 10/10/2018
+14:45:00, 10/10/2018
+14:48:00, 10/10/2018
+!
+14:51:00, 10/10/2018
+ Periodic Timer!
+
+offline
+Pi is UNsheduled Offline.
+14:52:00, 10/10/2018
+ Periodic Timer!
+14:52:00, 10/10/2018
+00, 10/10/2018
+heduled to restart. Resetting reboot flags
+14:53:00, 10/10/2018
+ust woken up on a Periodic Timer!
+0, 10/10/2018
+/10/2018
+ running
+53:00, 10/10/2018
+ and we are not sheduled to restart. Resetting reboot flags
+14:54:00, 10/10/2018
+ken up on a Periodic Timer!
+/2018
+:00, 10/10/2018
+
+0/10/2018
+ online and we are not sheduled to restart. Resetting reboot flags
+14:55:00, 10/10/2018
